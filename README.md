@@ -22,13 +22,13 @@ It includes solutions for **Assessments 1 through 13**, focusing on fundamental 
 📂 Repository Layout
 
 C-assessment/.<br>
-│
-├── assessment01.c
-├── assessment02.c
-├── assessment03.c
-├── ...
-├── assessment13.c
-└── README.md
+│<br>
+├── assessment01.c<br>
+├── assessment02.<br>
+├── assessment03.c<br>
+├── ...<br>
+├── assessment13.c<br>
+└── README.md<br>
 
 🛠 Development Setup
 - Programming Language: **C**
@@ -39,10 +39,10 @@ C-assessment/.<br>
 
 🎓 Learning Outcomes
 
-Through these assessments, I strengthened my:
+Through these assessments, I strengthened my:<br>
 
-Logical thinking and problem-solving ability
-Understanding of C programming internals
-Confidence in writing structured and efficient code
+Logical thinking and problem-solving ability<br>
+Understanding of C programming internals<br>
+Confidence in writing structured and efficient code<br>
 Exposure to embedded system–oriented programming concepts
 
