@@ -35,11 +35,6 @@ C-assessment/
 - Development Environment: **VS Code**
 - Operating System: **Windows**
 
-▶️ Execution Guide
-Compile and run programs using the following commands:
-```bash
-gcc filename.c -o filename
-./filename
 
 🎓 Learning Outcomes
 Through these assessments, I strengthened my:
