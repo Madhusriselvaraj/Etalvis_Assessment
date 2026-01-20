@@ -20,7 +20,8 @@ It includes solutions for **Assessments 1 through 13**, focusing on fundamental 
 - Debugging strategies and logical reasoning  
 
 📂 Repository Layout
-C-assessment/
+
+C-assessment/.<br>
 │
 ├── assessment01.c
 ├── assessment02.c
