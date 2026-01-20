@@ -37,7 +37,9 @@ C-assessment/
 
 
 🎓 Learning Outcomes
+
 Through these assessments, I strengthened my:
+
 Logical thinking and problem-solving ability
 Understanding of C programming internals
 Confidence in writing structured and efficient code
